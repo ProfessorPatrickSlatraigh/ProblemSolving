@@ -1,0 +1,1137 @@
+{
+  "SWOT": {
+    "technique": "SWOT Analysis",
+    "domain": "Strategic Planning & Market Positioning",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [],
+    "definition": "SWOT Analysis is a structured technique used in business analysis to support strategic planning & market positioning.",
+    "exampleUseCase": "A project where a team uses SWOT Analysis to address a challenge in strategic strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Strategy Analysis",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "SWOT Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the strategic planning & market positioning phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using SWOT Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to SWOT Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=swot",
+      "https://en.wikipedia.org/wiki/SWOT_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/swot-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/swot-analysis/"
+    ]
+  },
+  "PESTLE": {
+    "technique": "PESTLE Analysis",
+    "domain": "Strategic Planning & Market Positioning",
+    "impact": "Moderate",
+    "frequency": "Occasional",
+    "alternateDomains": [],
+    "definition": "PESTLE Analysis is a structured technique used in business analysis to support strategic planning & market positioning.",
+    "exampleUseCase": "A project where a team uses PESTLE Analysis to address a challenge in strategic strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Strategy Analysis",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Basic",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "PESTLE Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the strategic planning & market positioning phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using PESTLE Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to PESTLE Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=pestle",
+      "https://en.wikipedia.org/wiki/PESTLE_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/pestle-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/pestle-analysis/"
+    ]
+  },
+  "Competitor": {
+    "technique": "Competitive Analysis",
+    "domain": "Strategic Planning & Market Positioning",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [
+      "Decision Support & Justification"
+    ],
+    "definition": "Competitive Analysis is a structured technique used in business analysis to support strategic planning & market positioning.",
+    "exampleUseCase": "A project where a team uses Competitive Analysis to address a challenge in strategic strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Strategy Analysis",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Competitive Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the strategic planning & market positioning phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Competitive Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Competitive Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=competitive",
+      "https://en.wikipedia.org/wiki/Competitive_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/competitive-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/competitive-analysis/"
+    ]
+  },
+  "ValueChain": {
+    "technique": "Value-Chain Analysis",
+    "domain": "Strategic Planning & Market Positioning",
+    "impact": "High",
+    "frequency": "Situational",
+    "alternateDomains": [
+      "Process Improvement & Operations"
+    ],
+    "definition": "Value-Chain Analysis is a structured technique used in business analysis to support strategic planning & market positioning.",
+    "exampleUseCase": "A project where a team uses Value-Chain Analysis to address a challenge in strategic strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Strategy Analysis",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Advanced",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Value-Chain Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the strategic planning & market positioning phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Value-Chain Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Value-Chain Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=value-chain",
+      "https://en.wikipedia.org/wiki/Value-Chain_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/value-chain-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/value-chain-analysis/"
+    ]
+  },
+  "Customer": {
+    "technique": "Customer Analysis",
+    "domain": "Strategic Planning & Market Positioning",
+    "impact": "Moderate",
+    "frequency": "Occasional",
+    "alternateDomains": [
+      "Data & Systems Analysis"
+    ],
+    "definition": "Customer Analysis is a structured technique used in business analysis to support strategic planning & market positioning.",
+    "exampleUseCase": "A project where a team uses Customer Analysis to address a challenge in strategic strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Strategy Analysis",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Basic",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Customer Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the strategic planning & market positioning phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Customer Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Customer Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=customer",
+      "https://en.wikipedia.org/wiki/Customer_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/customer-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/customer-analysis/"
+    ]
+  },
+  "Canvas": {
+    "technique": "Business Model Canvas",
+    "domain": "Strategic Planning & Market Positioning",
+    "impact": "High",
+    "frequency": "Occasional",
+    "alternateDomains": [],
+    "definition": "Business Model Canvas is a structured technique used in business analysis to support strategic planning & market positioning.",
+    "exampleUseCase": "A project where a team uses Business Model Canvas to address a challenge in strategic strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Strategy Analysis",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Advanced",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Business Model Canvas is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the strategic planning & market positioning phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Business Model Canvas.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Business Model Canvas.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=business",
+      "https://en.wikipedia.org/wiki/Business_Model_Canvas",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/business-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/business-analysis/"
+    ]
+  },
+  "Scenario": {
+    "technique": "Scenario Analysis",
+    "domain": "Strategic Planning & Market Positioning",
+    "impact": "High",
+    "frequency": "Occasional",
+    "alternateDomains": [
+      "Decision Support & Justification"
+    ],
+    "definition": "Scenario Analysis is a structured technique used in business analysis to support strategic planning & market positioning.",
+    "exampleUseCase": "A project where a team uses Scenario Analysis to address a challenge in strategic strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Strategy Analysis",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Advanced",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Scenario Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the strategic planning & market positioning phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Scenario Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Scenario Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=scenario",
+      "https://en.wikipedia.org/wiki/Scenario_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/scenario-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/scenario-analysis/"
+    ]
+  },
+  "Benchmark": {
+    "technique": "Benchmarking",
+    "domain": "Strategic Planning & Market Positioning",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [],
+    "definition": "Benchmarking is a structured technique used in business analysis to support strategic planning & market positioning.",
+    "exampleUseCase": "A project where a team uses Benchmarking to address a challenge in strategic strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Strategy Analysis",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Benchmarking is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the strategic planning & market positioning phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Benchmarking.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Benchmarking.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=benchmarking",
+      "https://en.wikipedia.org/wiki/Benchmarking",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/benchmarking-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/benchmarking-analysis/"
+    ]
+  },
+  "Risk": {
+    "technique": "Risk Analysis",
+    "domain": "Strategic Planning & Market Positioning",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [
+      "Decision Support & Justification"
+    ],
+    "definition": "Risk Analysis is a structured technique used in business analysis to support strategic planning & market positioning.",
+    "exampleUseCase": "A project where a team uses Risk Analysis to address a challenge in strategic strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Strategy Analysis",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Risk Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the strategic planning & market positioning phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Risk Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Risk Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=risk",
+      "https://en.wikipedia.org/wiki/Risk_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/risk-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/risk-analysis/"
+    ]
+  },
+  "pModel": {
+    "technique": "Process Modeling",
+    "domain": "Process Improvement & Operations",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [],
+    "definition": "Process Modeling is a structured technique used in business analysis to support process improvement & operations.",
+    "exampleUseCase": "A project where a team uses Process Modeling to address a challenge in process strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Process Modeling is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the process improvement & operations phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Process Modeling.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Process Modeling.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=process",
+      "https://en.wikipedia.org/wiki/Process_Modeling",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/process-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/process-analysis/"
+    ]
+  },
+  "pAnalyis": {
+    "technique": "Process Analysis",
+    "domain": "Process Improvement & Operations",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [],
+    "definition": "Process Analysis is a structured technique used in business analysis to support process improvement & operations.",
+    "exampleUseCase": "A project where a team uses Process Analysis to address a challenge in process strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Process Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the process improvement & operations phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Process Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Process Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=process",
+      "https://en.wikipedia.org/wiki/Process_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/process-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/process-analysis/"
+    ]
+  },
+  "RootCause": {
+    "technique": "Root Cause Analysis",
+    "domain": "Process Improvement & Operations",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [],
+    "definition": "Root Cause Analysis is a structured technique used in business analysis to support process improvement & operations.",
+    "exampleUseCase": "A project where a team uses Root Cause Analysis to address a challenge in process strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Root Cause Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the process improvement & operations phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Root Cause Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Root Cause Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=root",
+      "https://en.wikipedia.org/wiki/Root_Cause_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/root-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/root-analysis/"
+    ]
+  },
+  "ValueStream": {
+    "technique": "Value Stream Mapping",
+    "domain": "Process Improvement & Operations",
+    "impact": "High",
+    "frequency": "Occasional",
+    "alternateDomains": [],
+    "definition": "Value Stream Mapping is a structured technique used in business analysis to support process improvement & operations.",
+    "exampleUseCase": "A project where a team uses Value Stream Mapping to address a challenge in process strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Advanced",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Value Stream Mapping is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the process improvement & operations phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Value Stream Mapping.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Value Stream Mapping.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=value",
+      "https://en.wikipedia.org/wiki/Value_Stream_Mapping",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/value-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/value-analysis/"
+    ]
+  },
+  "Gap": {
+    "technique": "Gap Analysis",
+    "domain": "Process Improvement & Operations",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [
+      "Strategic Planning & Market Positioning"
+    ],
+    "definition": "Gap Analysis is a structured technique used in business analysis to support process improvement & operations.",
+    "exampleUseCase": "A project where a team uses Gap Analysis to address a challenge in process strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Gap Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the process improvement & operations phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Gap Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Gap Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=gap",
+      "https://en.wikipedia.org/wiki/Gap_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/gap-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/gap-analysis/"
+    ]
+  },
+  "Decision": {
+    "technique": "Decision Modeling",
+    "domain": "Process Improvement & Operations",
+    "impact": "Moderate",
+    "frequency": "Occasional",
+    "alternateDomains": [
+      "Decision Support & Justification"
+    ],
+    "definition": "Decision Modeling is a structured technique used in business analysis to support process improvement & operations.",
+    "exampleUseCase": "A project where a team uses Decision Modeling to address a challenge in process strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Basic",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Decision Modeling is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the process improvement & operations phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Decision Modeling.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Decision Modeling.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=decision",
+      "https://en.wikipedia.org/wiki/Decision_Modeling",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/decision-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/decision-analysis/"
+    ]
+  },
+  "Interface": {
+    "technique": "Interface Analysis",
+    "domain": "Process Improvement & Operations",
+    "impact": "Moderate",
+    "frequency": "Situational",
+    "alternateDomains": [
+      "Data & Systems Analysis"
+    ],
+    "definition": "Interface Analysis is a structured technique used in business analysis to support process improvement & operations.",
+    "exampleUseCase": "A project where a team uses Interface Analysis to address a challenge in process strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Basic",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Interface Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the process improvement & operations phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Interface Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Interface Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=interface",
+      "https://en.wikipedia.org/wiki/Interface_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/interface-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/interface-analysis/"
+    ]
+  },
+  "rWorkshop": {
+    "technique": "Requirements Workshops",
+    "domain": "Requirements & Solution Design",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [],
+    "definition": "Requirements Workshops is a structured technique used in business analysis to support requirements & solution design.",
+    "exampleUseCase": "A project where a team uses Requirements Workshops to address a challenge in requirements strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Requirements Analysis and Design Definition",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Requirements Workshops is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the requirements & solution design phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Requirements Workshops.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Requirements Workshops.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=requirements",
+      "https://en.wikipedia.org/wiki/Requirements_Workshops",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/requirements-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/requirements-analysis/"
+    ]
+  },
+  "UserUse": {
+    "technique": "User Stories / Use Cases",
+    "domain": "Requirements & Solution Design",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [],
+    "definition": "User Stories / Use Cases is a structured technique used in business analysis to support requirements & solution design.",
+    "exampleUseCase": "A project where a team uses User Stories / Use Cases to address a challenge in requirements strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Requirements Analysis and Design Definition",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "User Stories / Use Cases is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the requirements & solution design phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using User Stories / Use Cases.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to User Stories / Use Cases.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=user",
+      "https://en.wikipedia.org/wiki/User_Stories_/_Use_Cases",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/user-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/user-analysis/"
+    ]
+  },
+  "Prototype": {
+    "technique": "Prototyping / Wireframing",
+    "domain": "Requirements & Solution Design",
+    "impact": "Moderate",
+    "frequency": "Occasional",
+    "alternateDomains": [
+      "Data & Systems Analysis"
+    ],
+    "definition": "Prototyping / Wireframing is a structured technique used in business analysis to support requirements & solution design.",
+    "exampleUseCase": "A project where a team uses Prototyping / Wireframing to address a challenge in requirements strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Requirements Analysis and Design Definition",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Basic",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Prototyping / Wireframing is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the requirements & solution design phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Prototyping / Wireframing.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Prototyping / Wireframing.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=prototyping",
+      "https://en.wikipedia.org/wiki/Prototyping_/_Wireframing",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/prototyping-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/prototyping-analysis/"
+    ]
+  },
+  "Stakeholder": {
+    "technique": "Stakeholder Analysis",
+    "domain": "Requirements & Solution Design",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [
+      "Strategic Planning & Market Positioning"
+    ],
+    "definition": "Stakeholder Analysis is a structured technique used in business analysis to support requirements & solution design.",
+    "exampleUseCase": "A project where a team uses Stakeholder Analysis to address a challenge in requirements strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Requirements Analysis and Design Definition",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Stakeholder Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the requirements & solution design phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Stakeholder Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Stakeholder Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=stakeholder",
+      "https://en.wikipedia.org/wiki/Stakeholder_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/stakeholder-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/stakeholder-analysis/"
+    ]
+  },
+  "MoSCoW": {
+    "technique": "MoSCoW Prioritization",
+    "domain": "Requirements & Solution Design",
+    "impact": "Moderate",
+    "frequency": "Occasional",
+    "alternateDomains": [],
+    "definition": "MoSCoW Prioritization is a structured technique used in business analysis to support requirements & solution design.",
+    "exampleUseCase": "A project where a team uses MoSCoW Prioritization to address a challenge in requirements strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Requirements Analysis and Design Definition",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Basic",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "MoSCoW Prioritization is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the requirements & solution design phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using MoSCoW Prioritization.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to MoSCoW Prioritization.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=moscow",
+      "https://en.wikipedia.org/wiki/MoSCoW_Prioritization",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/moscow-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/moscow-analysis/"
+    ]
+  },
+  "Problem": {
+    "technique": "Problem Statement",
+    "domain": "Requirements & Solution Design",
+    "impact": "Moderate",
+    "frequency": "Frequent",
+    "alternateDomains": [],
+    "definition": "Problem Statement is a structured technique used in business analysis to support requirements & solution design.",
+    "exampleUseCase": "A project where a team uses Problem Statement to address a challenge in requirements strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Requirements Analysis and Design Definition",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Basic",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Problem Statement is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the requirements & solution design phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Problem Statement.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Problem Statement.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=problem",
+      "https://en.wikipedia.org/wiki/Problem_Statement",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/problem-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/problem-analysis/"
+    ]
+  },
+  "BrainStorm": {
+    "technique": "Brainstorming",
+    "domain": "Requirements & Solution Design",
+    "impact": "Moderate",
+    "frequency": "Frequent",
+    "alternateDomains": [],
+    "definition": "Brainstorming is a structured technique used in business analysis to support requirements & solution design.",
+    "exampleUseCase": "A project where a team uses Brainstorming to address a challenge in requirements strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Requirements Analysis and Design Definition",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Basic",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Brainstorming is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the requirements & solution design phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Brainstorming.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Brainstorming.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=brainstorming",
+      "https://en.wikipedia.org/wiki/Brainstorming",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/brainstorming-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/brainstorming-analysis/"
+    ]
+  },
+  "DataModel": {
+    "technique": "Data Modeling",
+    "domain": "Data & Systems Analysis",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [],
+    "definition": "Data Modeling is a structured technique used in business analysis to support data & systems analysis.",
+    "exampleUseCase": "A project where a team uses Data Modeling to address a challenge in data strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "High",
+    "dataScienceMethods": [
+      "Descriptive Statistics",
+      "Data Visualization"
+    ],
+    "why": "Data Modeling is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the data & systems analysis phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Data Modeling.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Data Modeling.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=data",
+      "https://en.wikipedia.org/wiki/Data_Modeling",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/data-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/data-analysis/"
+    ]
+  },
+  "Survey": {
+    "technique": "Surveys / Questionnaires",
+    "domain": "Data & Systems Analysis",
+    "impact": "Moderate",
+    "frequency": "Occasional",
+    "alternateDomains": [],
+    "definition": "Surveys / Questionnaires is a structured technique used in business analysis to support data & systems analysis.",
+    "exampleUseCase": "A project where a team uses Surveys / Questionnaires to address a challenge in data strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Basic",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Surveys / Questionnaires is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the data & systems analysis phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Surveys / Questionnaires.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Surveys / Questionnaires.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=surveys",
+      "https://en.wikipedia.org/wiki/Surveys_/_Questionnaires",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/surveys-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/surveys-analysis/"
+    ]
+  },
+  "KPI": {
+    "technique": "KPI Definition / Performance Metrics",
+    "domain": "Data & Systems Analysis",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [
+      "Decision Support & Justification"
+    ],
+    "definition": "KPI Definition / Performance Metrics is a structured technique used in business analysis to support data & systems analysis.",
+    "exampleUseCase": "A project where a team uses KPI Definition / Performance Metrics to address a challenge in data strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "High",
+    "dataScienceMethods": [
+      "Descriptive Statistics",
+      "Data Visualization"
+    ],
+    "why": "KPI Definition / Performance Metrics is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the data & systems analysis phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using KPI Definition / Performance Metrics.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to KPI Definition / Performance Metrics.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=kpi",
+      "https://en.wikipedia.org/wiki/KPI_Definition_/_Performance_Metrics",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/kpi-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/kpi-analysis/"
+    ]
+  },
+  "Financial": {
+    "technique": "Financial Analysis",
+    "domain": "Data & Systems Analysis",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [
+      "Decision Support & Justification"
+    ],
+    "definition": "Financial Analysis is a structured technique used in business analysis to support data & systems analysis.",
+    "exampleUseCase": "A project where a team uses Financial Analysis to address a challenge in data strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Financial Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the data & systems analysis phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Financial Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Financial Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=financial",
+      "https://en.wikipedia.org/wiki/Financial_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/financial-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/financial-analysis/"
+    ]
+  },
+  "Pricing": {
+    "technique": "Pricing Analysis",
+    "domain": "Data & Systems Analysis",
+    "impact": "Moderate",
+    "frequency": "Situational",
+    "alternateDomains": [
+      "Strategic Planning & Market Positioning"
+    ],
+    "definition": "Pricing Analysis is a structured technique used in business analysis to support data & systems analysis.",
+    "exampleUseCase": "A project where a team uses Pricing Analysis to address a challenge in data strategy.",
+    "toolsUsed": [
+      "Excel",
+      "Lucidchart",
+      "PowerPoint"
+    ],
+    "babokKnowledgeArea": "Elicitation and Collaboration",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Project Manager",
+      "Subject Matter Expert"
+    ],
+    "difficultyLevel": "Basic",
+    "dataScienceRelevance": "Moderate",
+    "dataScienceMethods": [
+      "Categorization"
+    ],
+    "why": "Pricing Analysis is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the data & systems analysis phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Pricing Analysis.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Pricing Analysis.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=pricing",
+      "https://en.wikipedia.org/wiki/Pricing_Analysis",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/pricing-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/pricing-analysis/"
+    ]
+  },
+  "bCase": {
+    "technique": "Business Case Development",
+    "domain": "Decision Support & Justification",
+    "impact": "High",
+    "frequency": "Frequent",
+    "alternateDomains": [
+      "Strategic Planning & Market Positioning"
+    ],
+    "definition": "Business Case Development is a structured technique used in business analysis to support decision support & justification.",
+    "exampleUseCase": "A project where a team uses Business Case Development to address a challenge in decision strategy.",
+    "toolsUsed": [
+      "Word",
+      "Miro",
+      "Google Forms"
+    ],
+    "babokKnowledgeArea": "Solution Evaluation",
+    "stakeholdersInvolved": [
+      "Business Analyst",
+      "Stakeholder",
+      "Product Owner"
+    ],
+    "difficultyLevel": "Intermediate",
+    "dataScienceRelevance": "Low",
+    "dataScienceMethods": [],
+    "why": "Business Case Development is used to support clear decision-making, prioritize actions, or analyze business situations to enable value-driven outcomes.",
+    "when": "This technique is typically applied during the decision support & justification phase, especially when prerequisites such as stakeholder alignment, data availability, or project initiation are present.",
+    "how": [
+      "Define the objective for using Business Case Development.",
+      "Gather necessary data or involve relevant stakeholders.",
+      "Apply the structure or framework specific to Business Case Development.",
+      "Review results and validate with stakeholders."
+    ],
+    "resources": [
+      "https://www.iiba.org/search?q=business",
+      "https://en.wikipedia.org/wiki/Business_Case_Development",
+      "https://www.modernanalyst.com/Resources/Articles/tabid/54/articleType/ArticleView/articleId/0000/business-technique.aspx",
+      "https://www.analyticsvidhya.com/blog/tag/business-analysis/"
+    ]
+  }
+}
